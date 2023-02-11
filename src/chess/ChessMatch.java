@@ -6,7 +6,7 @@ public class ChessMatch {
 	
 	private Board board;
 	
-	public ChesssMatch() {
+	public ChessMatch() {
 		board = new Board(8, 8);
 		
 	}
@@ -20,5 +20,4 @@ public class ChessMatch {
 		}
 		return mat;
 	}
-
 }
